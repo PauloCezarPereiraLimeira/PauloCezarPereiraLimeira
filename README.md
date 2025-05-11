@@ -20,7 +20,7 @@
 
 ## 🛠️ Projetos Ativos
 
-- 🤖 **Robô Luna**  
+- 🤖 **Robô Iris**  
   Plataforma robótica de interação emocional com IA generativa.
 
 - 🧩 **NeoStack**  
