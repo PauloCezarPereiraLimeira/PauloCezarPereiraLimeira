@@ -3,10 +3,10 @@
 </h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/IThjAlJnD9WNO/giphy.gif" width="120" alt="Pikachu Loading" />
-  <img src="https://media.giphy.com/media/10SvWCbt1ytWCc/giphy.gif" width="120" alt="Charmander" />
-  <img src="https://media.giphy.com/media/LHZyixOnHwDDy/giphy.gif" width="120" alt="Bulbasaur" />
-  <img src="https://media.giphy.com/media/xUOxf48tR0zPz5z4Gg/giphy.gif" width="120" alt="Squirtle" />
+  <img src="https://media.giphy.com/media/IThjAlJnD9WNO/giphy.gif" width="100" alt="Pikachu" />
+  <img src="https://media.giphy.com/media/10SvWCbt1ytWCc/giphy.gif" width="100" alt="Charmander" />
+  <img src="https://media.giphy.com/media/LHZyixOnHwDDy/giphy.gif" width="100" alt="Bulbasaur" />
+  <img src="https://media.giphy.com/media/xUOxf48tR0zPz5z4Gg/giphy.gif" width="100" alt="Squirtle" />
 </p>
 
 ---
@@ -16,22 +16,21 @@
 > "Construo experiências digitais com alma.  
 > Misturo código, empatia e cultura pop para criar tecnologias com identidade."
 
----
-
-## 🛠️ Projetos Ativos
-
-- 🤖 **Robô Iris**  
-  Plataforma robótica de interação emocional com IA generativa.
-
-- 🧩 **NeoStack**  
-  Arquitetura modular para MVPs e soluções de baixo código.
-
-- 🕹️ **GameControl.AI**  
-  Controle adaptativo com algoritmos de aprendizado para games e simulações.
+👨‍💻 Desenvolvedor multidisciplinar | 👁️ Explorador de interações homem-máquina | 🌐 Arquiteto de futuros digitais
 
 ---
 
-## ⚡ Stack Tecnológica
+## 🚀 Projetos Ativos
+
+| Projeto         | Descrição                                                                 |
+|----------------|---------------------------------------------------------------------------|
+| 🤖 **Robô Iris**     | Plataforma robótica de interação emocional com IA generativa.             |
+| 🧩 **NeoStack**      | Arquitetura modular para MVPs e soluções de baixo código.                 |
+| 🕹️ **GameControl.AI** | Controle adaptativo com machine learning para games e simulações.         |
+
+---
+
+## ⚙️ Stack Tecnológica
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-00ffff?style=for-the-badge&logo=python&logoColor=white" />
@@ -46,8 +45,9 @@
 ## 🧠 Curiosidades Geek
 
 - 🎮 Fanático por jogos retro, especialmente **Pokémon Red/Blue**
-- 🧬 Apaixonado por integrar IA e robótica em contextos humanos
-- 🌌 Estilo visual influenciado por **Cyberpunk 2077**, **TRON**, e **Ghost in the Shell**
+- 🧬 Fascinado por IA social, robótica empática e interfaces afetivas
+- 🛰️ Estilo visual influenciado por **Cyberpunk 2077**, **TRON** e **Ghost in the Shell**
+- 📼 Estética digital retrofuturista com DNA de ficção científica japonesa
 
 ---
 
@@ -55,6 +55,18 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=PauloCezarPereiraLimeira&show_icons=true&theme=tokyonight&hide_border=true&icon_color=00ffff&title_color=ff00ff&text_color=ffffff" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PauloCezarPereiraLimeira&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
+</p>
+
+---
+
+## 🧩 Arte & Interação Dinâmica
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
 
 ---
